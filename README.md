@@ -1,2 +1,2 @@
 # BabyShower
- Hailey Fisher Baby Shower
+Baby Shower Info
