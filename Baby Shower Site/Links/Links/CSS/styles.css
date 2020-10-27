@@ -1,0 +1,71 @@
+body {
+background-image: url("sky.jpg");
+background-size: auto;
+text-align: center;
+}
+
+/* body > * {
+  text-align: right;
+} */
+
+h1 {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 3rem;
+  margin: 15px 0 5px 0;
+  padding-top: 20px;
+}
+
+h1 > * {
+  text-align: center;
+}
+
+  a {
+  text-decoration: none;
+  }
+
+  a:active {
+    color: purple;
+  }
+
+  a:visited {
+    text-decoration: none;
+    color: purple;
+  }
+
+  a:hover {
+    color: #4e89ae;
+    text-decoration: none;
+  }
+
+/* BABY PREDICTIONS */
+.predictions {
+  color: white;
+  font-size: 130%;
+  margin: 15px 0 15px 0;
+}
+
+.firstname {
+  color: #4e89ae;
+  font-size: 150%;
+}
+
+.submit-button {
+  color: white;
+  background-color: #4e89ae;
+  border-radius: 12px;
+  width: 70px;
+  height: 30px;
+}
+
+.boxes {
+  background-color: #eaf5ff;
+  border-color: white;
+  border-radius: 3%;
+}
+
+.form {
+  display: inline-block;
+  text-align: right;
+}

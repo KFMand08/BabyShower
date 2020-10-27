@@ -1,0 +1,122 @@
+body {
+background-color: lightblue;
+background-image: url("sky.jpg");
+text-align: center;
+background-size: auto;
+}
+
+h1 {
+  color: purple;
+  font-style: italic;
+  font-family: cursive;
+  font-size: 3rem;
+}
+
+a {
+text-decoration: none;
+color: white;
+font-family: cursive;
+font-size: 1.2rem;
+}
+
+a:hover {
+  color: #4e89ae;
+  text-decoration: none;
+}
+
+/* Carousel Captions */
+h4 {
+  font-weight: 900;
+  font-family: cursive;
+  color: #94d2e6;
+  font-stretch: expanded;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.top-container {
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.gifbaby {
+  width: 6%;
+  padding: 0;
+}
+
+.footprint {
+  width: 8%;
+  position: absolute;
+  left: 10%;
+  top: 18%;
+  transform: rotate(-20deg);
+  color: pink;
+}
+
+.bottle {
+  width: 8%;
+  position: absolute;
+  right: 10%;
+  top: 18%;
+  transform: rotate(20deg);
+  color: grey;
+}
+
+.carousel-caption {
+  margin: auto;
+}
+
+.carousel-inner {
+  width: 50%;
+  margin: auto;
+}
+
+.meet {
+  width: 25%;
+}
+
+.proposal {
+  width: 25%;
+}
+
+.wedding {
+  width: 110%;
+}
+
+.baby {
+  width: 75%;
+  height: auto;
+  margin: auto;
+  align-self: center;
+  left: 12%;
+}
+
+.wedding17 {
+  right: 150px;
+}
+
+.years {
+  padding: 0 20px 0 20px;
+}
+
+.registry {
+  padding: 0 20px 0 20px;
+}
+
+.trivia {
+  padding: 0 20px 0 20px;
+}
+
+.games {
+  padding: 0 20px 0 20px;
+}
+
+.guestbook {
+  padding: 0 20px 0 20px;
+}
+
+.copyright {
+  padding: 100px;
+  margin: 100px;
+  color: white;
+}
